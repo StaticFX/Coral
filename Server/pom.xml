@@ -6,6 +6,7 @@
         <artifactId>coral</artifactId>
         <version>0.0.1</version>
     </parent>
-    <artifactId>API</artifactId>
-    <name>API</name>
+    <artifactId>Server</artifactId>
+    <name>Server</name>
+
 </project>
